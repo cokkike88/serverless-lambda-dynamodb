@@ -1,0 +1,25 @@
+{
+    "body": {
+        "movie_id": "asi1",
+        "title": "Avengers end game",
+        "Director": "director",
+        "actors": [
+            {
+                "name": "Cris Evans",
+                "Character": "Capitan America"
+            },
+            {
+                "name": "Cris Healmont",
+                "Character": "Thor"
+            },
+            {
+                "name": "Scarlet Johansson",
+                "Character": "Viuda Negra"
+            },
+            {
+                "name": "Olsen",
+                "Character": "Bruja Escarlata"
+            }
+        ]
+    }
+}
