@@ -15,6 +15,10 @@ serverless create --template aws-nodejs --path lambda-with-dynamodb
 ```
 sls invoke local -f {function_name} --stage dev
 ```
+- --state -> This is a dynamic value that is used in yml file, to get its value (dev) you can use the following command into the yml file. To get more information [here.](https://www.serverless.com/framework/docs/providers/aws/guide/variables/)
+```
+${opt:stage}
+```
 example 1
 ```
 sls invoke local -f save_data_dynamodb --stage prod -p ./json_inputs/save_data_dynamodb.json
