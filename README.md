@@ -49,3 +49,6 @@ https://www.serverless.com/framework/docs/providers/aws/guide/variables/
 
 - Reference variables in other files
 https://www.serverless.com/framework/docs/providers/aws/guide/variables/#reference-variables-in-other-files
+
+- Schedule AWS Lambda
+https://blog.shikisoft.com/3-ways-to-schedule-aws-lambda-and-step-functions-state-machines/

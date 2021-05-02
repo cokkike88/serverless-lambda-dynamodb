@@ -9,6 +9,7 @@
   "author": "Oscar M.",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.888.0"
+    "aws-sdk": "^2.888.0",
+    "csvjson": "^5.1.0"
   }
 }
